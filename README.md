@@ -18,7 +18,7 @@
 
 - **规则核心**：凡 AI 直接输出的成品（代码项目/网站/应用/脚本文档/文章/教程等），默认附带 AI 使用说明，除非用户明确说"不加"。
 - **两种默认施加方式**：项目 → 在「项目介绍处」标明；文章/文档 → 在「结尾处」注明。
-- **声明要素清单**：明确"AI 生成 / AI 辅助生成"措辞 + 生成时间 + 一句使用注意。
+- **声明要素清单**：措辞统一为「使用 AI 辅助生成」+ 生成时间 + 一句使用注意。
 - **备选方式**：文件头部注释、`NOTICE.md` 独立声明文件、平台内置"AI 生成"标识、交付时口头说明。
 - **例外与边界**：用户说"不加"就不加也不追问；用户主导的长期产品代码库由用户自己决定。
 - 附带法律背景说明与活文档更新协议。
@@ -42,7 +42,7 @@ A practical standard for labeling AI-generated content, grounded in China's *Int
 
 - **Core rule**: every AI-produced deliverable (code project / website / app / script / article / tutorial) carries an AI usage notice by default — unless the user explicitly opts out.
 - **Two default placements**: projects → a visible statement near the project description; articles/documents → a note at the end.
-- **Required elements**: honest "AI-generated / AI-assisted" wording + generation date + a one-line usage caution.
+- **Required elements**: the wording is unified as "AI-assisted" (not "AI-generated") + generation date + a one-line usage caution.
 - **Alternatives**: file-header comments, a standalone `NOTICE.md`, platform AI labels, verbal disclosure at delivery.
 - **Exceptions**: "no notice" when the user says so (no nagging); user-owned long-term products are the user's call.
 - Includes the legal background and a living-document update protocol.
