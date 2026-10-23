@@ -1,6 +1,6 @@
 # ai-usage-notice
 
-**为 AI 直接输出的成品默认添加「AI 使用说明」的规范 skill——项目 README 开头 + 文章文末双默认位置，法律依据、施加方式、例外边界完整齐备。**
+**为 AI 直接输出的成品默认添加「AI 使用说明」的规范 skill——项目放介绍处、文章放结尾，二选一且每份只留一处，法律依据、施加方式、例外边界完整齐备。**
 
 **A skill that mandates an "AI Usage Notice" on AI-produced deliverables — a visible notice on the project page or at the end of an article, backed by legal requirements, with clear placement rules, alternatives, and exceptions.**
 
